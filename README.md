@@ -1,7 +1,7 @@
 # Welcome
 ## Game development repository.
 
-## Key peices of game development:
+## Key pieces of game development:
 ###**Core Mechanic**
 * What is the game going to function around?
 * What choices can the player make?
